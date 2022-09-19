@@ -1,6 +1,6 @@
 # Comp584 Homework 1
 ####
-#### Website link:
+#### Website link: https://byronurrutia.github.io/comp584_homework1/
 ####
 #### Create a email page using HTML and CSS
 - Add some headings, some text, and an image to your basic email.
