@@ -1,8 +1,8 @@
 # comp584_homework1
-#
-Website link:
-#
-####Create a email page using HTML and CSS
+####
+####Website link:
+####
+#### Create a email page using HTML and CSS
 - Add some headings, some text, and an image to your basic email.
 - Make use of the div
 - You can use placeholder images and lorem ipsum text.
